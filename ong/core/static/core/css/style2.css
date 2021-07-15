@@ -1,0 +1,35 @@
+.bg-secondary {
+  background-color: #610BBB !important;
+}
+
+.bg-primary {
+  background-color: #BA9814 !important;
+}
+
+.copyright {
+  background-color: #610BBB;
+}
+
+.text-secondary {
+  color: #610BBB !important;
+}
+
+.divider-custom .divider-custom-icon {
+  color: #610BBB;
+  font-size: 2rem;
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #A88711;
+  color: #fff;
+}
+
+input, button, select, optgroup, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  display: block !important;
+}
